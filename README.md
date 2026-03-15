@@ -1,6 +1,6 @@
 # Social Media Sentiment Analysis
 
-This project implements a **Natural Language Processing (NLP) model** to classify social media posts into **Positive, Neutral, or Negative** sentiments.
+This project implements a Natural Language Processing (NLP) model to classify social media posts into Positive, Neutral, or Negative sentiments.
 
 ## Features
 - Preprocessing: label mapping, balancing, removing empty posts
